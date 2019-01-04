@@ -1,2 +1,2 @@
 # Python-Cal
-Reminder
+Reminder app/ to do list
